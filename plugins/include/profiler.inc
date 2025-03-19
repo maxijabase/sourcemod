@@ -35,10 +35,6 @@
 #endif
 #define _profiler_included
 
-/**
- * ONLY AVAILABLE ON WINDOWS RIGHT NOW K.
- */
-
 methodmap Profiler < Handle
 {
 	// Creates a new profile object.  The Handle must be freed
